@@ -1,71 +1,70 @@
 <div align="center">
 
-<img src="./assets/wired-header.svg" width="100%" alt="Chenuki Rodrigo - Connecting to the Wired" />
+<img src="./assets/lain-banner.gif" width="100%" alt="Animated cyberpunk terminal and anime-inspired silhouette" />
 
-### `> establishing connection ...` 🟣
+### `// WELCOME TO THE WIRED //`
 
-**CHENUKI RODRIGO**  `//`  Software Engineering Co-op @ University of Guelph
+**CHENUKI RODRIGO**  ·  Software Engineering Co-op @ University of Guelph  
+`creative coding` **/** `AI + ethical technology` **/** `web + UX`
 
-`JAVA` · `C` · `PYTHON` · `HTML/CSS` · `JAVAFX` · `WIX` · `UX DESIGN`
+[![Portfolio](https://img.shields.io/badge/MY_DESIGN_PORTFOLIO-FF70B7?style=for-the-badge&labelColor=150F22)](https://drive.google.com/drive/folders/1g_YwLpNPLRVWQzI8q7qoo3Av18L9lvOb?usp=drive_link)
+[![Email](https://img.shields.io/badge/EMAIL_ME-161125?style=for-the-badge&logo=gmail&logoColor=ff86ce)](mailto:crodrigo@uoguelph.ca)
 
-[![GitHub](https://img.shields.io/badge/GitHub-cypherfem-151020?style=for-the-badge&logo=github&logoColor=ff8bd8)](https://github.com/cypherfem)
-[![Email](https://img.shields.io/badge/Email-Connect-151020?style=for-the-badge&logo=gmail&logoColor=ff8bd8)](mailto:crodrigo@uoguelph.ca)
+<img src="./assets/lain-glitch.gif" width="310" alt="Animated Wired glitch" />
+<img src="./assets/lain-static.gif" width="310" alt="Animated analog static" />
 
 </div>
 
----
+### `01 // identity.exe`
 
-### `01 // user_info.txt`
-
-```text
-USER        : Chenuki Rodrigo
-LOCATION    : Ontario, Canada
-EDUCATION   : B.Comp., Software Engineering (Co-op)
-FOCUS       : User Experience Design
-INTERESTS   : creative coding / human-centred interfaces / women in tech
-STATUS      : building things at the intersection of art and technology
+```yaml
+name: Chenuki Rodrigo
+location: Ontario, Canada
+education: Bachelor of Computing — Software Engineering (Co-op)
+area_of_emphasis: User Experience Design
+interests: [creative coding, cyberfeminism, accessible UX, ethical AI]
+currently: building at the intersection of art and technology
 ```
 
-I make **interactive software, creative websites, and educational experiences**. I'm interested in how technology shapes identity, who gets represented in computing, and how thoughtful interfaces make complex ideas feel approachable.
+I build interactive software and expressive web experiences, with a particular interest in **women in technology**, **ethical AI**, and **digital storytelling**.
 
-### `02 // selected_projects.exe`
+### `02 // featured_projects`
 
-| Project | Stack | What I built |
-| :--- | :--- | :--- |
-| **Prayer's Computer** | Java, JavaFX, Groq API | An interactive desktop experience with an AI-assisted gender-bias analyzer, branching screens, and digital storytelling. |
-| **Hatsune Miku Website** | HTML, CSS | A themed multi-page website with custom navigation, styled pages, and a 404 page. |
-| **Cyberfeminist Index** | Wix | A website exploring feminism, digital culture, and technology. |
-| **Daisy Chain Network** *(in progress)* | Java, Vaadin | A resource platform highlighting women in STEM and learning opportunities. |
-| **Rental Car Management** | C, Make, GitLab | A linked-list application using dynamic memory allocation and modular code. |
+| Project | Technologies | About |
+| :-- | :-- | :-- |
+| **Prayer's Computer** | `Java` `JavaFX` `Groq API` | Interactive desktop story with AI-assisted gender-bias analysis and inclusive language suggestions. |
+| **Hatsune Miku Website** | `HTML` `CSS` | Multi-page website with navigation, styling and a custom 404 page. |
+| **Cyberfeminist Index** | `Wix` | Creative website exploring women, technology, and online culture. |
+| **Daisy Chain Network** *(WIP)* | `Java` `Vaadin` | Women-in-STEM resource platform with organized views and navigation. |
+| **Rental Car Management** | `C` `Make` `GitLab` | Linked-list operations, dynamic allocation, debugging and modular files. |
 
-> **Currently exploring:** making interfaces that are both technically useful and visually memorable.
+<div align="center">
+<img src="./assets/lain-terminal.gif" width="75%" alt="Animated cyberpunk coding terminal" />
+</div>
 
-### `03 // system_capabilities`
+### `03 // installed_modules`
 
-**Languages** `Java` `C` `Python (foundational)` `HTML` `CSS`  
-**Frameworks** `JavaFX` `Vaadin`  
-**Tools** `Git` `GitHub` `GitLab` `Linux` `Make` `Valgrind`  
-**Web + creative** `Wix` `WordPress` `Canva` `UX/UI`  
-**Concepts** `REST APIs` `JSON` `Data Structures` `Debugging` `User-centred design`
+**Programming:** `Java` `C` `Python (foundational)` `HTML` `CSS`  
+**Frameworks:** `JavaFX` `Vaadin`  
+**Web + design:** `Wix` `WordPress` `Canva` `UX / UI`  
+**Developer tools:** `Git` `GitHub` `GitLab` `Linux` `Make` `Valgrind`  
+**Concepts:** `REST APIs` `JSON` `Data Structures` `Debugging`
 
-### `04 // transmission.log`
+### `04 // system_log`
 
-```text
-[ OK ] learning by building
-[ OK ] making room for creative + technical work
-[ OK ] exploring ethical AI and inclusive design
-[ .. ] next project loading...
+```console
+[ OK ] designing user-focused applications
+[ OK ] learning through experiments
+[ OK ] researching ethical AI & bias
+[ .. ] next project loading ...
 ```
 
 <div align="center">
 
-`// THE WIRED IS EVERYWHERE //`
+<img src="./assets/lain-glitch.gif" width="240" alt="Looping Wired signal" />
 
-*Inspired by retro-computing, cyberpunk interfaces, and Serial Experiments Lain.*
+**`THE WIRED IS EVERYWHERE`**
+
+<sub>Cyberpunk / Serial Experiments Lain–inspired original animated graphics.</sub>
 
 </div>
-
-<!-- OPTIONAL LAIN GIF: Download a GIF you have permission to use, upload it as assets/lain.gif,
-     then delete the comment markers around the following line:
-<div align="center"><img src="./assets/lain.gif" width="360" alt="Lain-inspired animation" /></div>
--->
