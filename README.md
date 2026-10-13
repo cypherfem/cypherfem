@@ -1,4 +1,4 @@
-div align="center">
+<div align="center">
 
 <img src="https://media1.tenor.com/m/1QQfx64Esr0AAAAd/serial-experiments-lain-lain.gif" width="640" alt="Lain blue animated wallpaper" />
 
@@ -87,4 +87,3 @@ I make **interactive apps, creative websites, and AI-assisted tools**. I'm espec
 <sub>✦ Lain GIFs sourced from community posts on Tenor; anime belongs to its respective creators. ✦</sub>
 
 </div>
-
