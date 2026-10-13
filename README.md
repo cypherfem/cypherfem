@@ -1,88 +1,90 @@
-<div align="center">
+div align="center">
 
-# ⛓️ CYPHERFEM.EXE
+<img src="https://media1.tenor.com/m/1QQfx64Esr0AAAAd/serial-experiments-lain-lain.gif" width="640" alt="Lain blue animated wallpaper" />
 
-**`CONNECTING TO THE WIRED...`** ░░░░░░░░░░ 100%
+# 🌐 C Y P H E R F E M . E X E
 
-<img src="https://media.giphy.com/media/VLzbEtlbwJUFljcRbf/giphy.gif" width="600" alt="Serial Experiments Lain analog glitch animation"/>
+### `✦ welcome to the wired ✦`
 
-### `hello, i'm chenuki` ♡
+**👾 hi, i'm Chenuki!**
 
-**Software Engineering Co-op Student @ University of Guelph**  
-*UX design · creative coding · AI · the weird side of the internet*
+*Software Engineering Co-op @ University of Guelph · UX Design*
 
-![Java](https://img.shields.io/badge/Java-ff83c4?style=flat-square&logo=openjdk&logoColor=black)
-![C](https://img.shields.io/badge/C-ff83c4?style=flat-square&logo=c&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML%2FCSS-ff83c4?style=flat-square&logo=html5&logoColor=black)
-![Wix](https://img.shields.io/badge/Wix-ff83c4?style=flat-square&logo=wix&logoColor=black)
+![Java](https://img.shields.io/badge/Java-061925?style=for-the-badge&logo=openjdk&logoColor=3fffe0)
+![C](https://img.shields.io/badge/C-061925?style=for-the-badge&logo=c&logoColor=3fffe0)
+![HTML & CSS](https://img.shields.io/badge/HTML%20%26%20CSS-061925?style=for-the-badge&logo=html5&logoColor=3fffe0)
+![Wix](https://img.shields.io/badge/Wix-061925?style=for-the-badge&logo=wix&logoColor=3fffe0)
 
-[**GITHUB**](https://github.com/cypherfem) ✦ [**EMAIL**](mailto:crodrigo@uoguelph.ca)
+**[💾 GitHub](https://github.com/cypherfem)** ・ **[📨 Email](mailto:crodrigo@uoguelph.ca)**
+
+`STATUS: ONLINE 🟢` · `LOCATION: ONTARIO, CANADA` · `CONNECTION: THE WIRED`
 
 </div>
 
 ---
 
-<table>
-<tr>
-<td width="65%" valign="top">
+## 🪼 `01 / about_me.exe`
 
-### `01 / whoami`
+<table><tr><td width="66%" valign="top">
 
-```txt
-NAME      Chenuki Rodrigo
-STUDY     B.Comp. Software Engineering (Co-op)
-LOCATION  Ontario, Canada
-FOCUS     User Experience Design
-STATUS    online // building something...
+```text
+> whoami
+NAME     : Chenuki Rodrigo
+DEGREE   : B.Comp., Software Engineering (Co-op)
+FOCUS    : User Experience Design
+LOVES    : creative coding, weird web, women in tech
+CURRENT  : building beautiful & useful software
 ```
 
-I create interactive Java applications, websites, and projects exploring **women in technology**, digital identity, and human-centred design.
+I make **interactive apps, creative websites, and AI-assisted tools**. I'm especially interested in **cyberfeminism**, digital storytelling, and human-centred technology. 🦋
 
-</td>
-<td width="35%" align="center" valign="middle">
-<img src="https://media.giphy.com/media/40Lp2KJ5zagkjrnp7h/giphy.gif" width="250" alt="Serial Experiments Lain distorted anime GIF"/>
-</td>
-</tr>
-</table>
+</td><td width="34%" align="center">
+<img src="https://media1.tenor.com/m/AL_kKT7aS9IAAAAd/serial-experiments-lain-yasuo-iwakura.gif" width="260" alt="Lain blue computer screen animation" />
+</td></tr></table>
 
-### `02 / featured_projects`
+## 💻 `02 / projects.directory`
 
-| Project | Tech | Description |
+| 🗂️ Project | ⚙️ Tech | ✨ Description |
 |---|---|---|
-| **Prayer's Computer** | Java, JavaFX, Groq API | Interactive desktop world with an AI-powered gender bias analyzer |
-| **Hatsune Miku Website** | HTML, CSS | Multi-page website with custom navigation and a 404 page |
-| **Cyberfeminist Index** | Wix | Digital art, feminism, and technology |
-| **Daisy Chain Network** | Java, Vaadin | Women-in-STEM resource platform *(in progress)* |
-| **Rental Car Management** | C, Git, Make | Linked-list application with dynamic memory management |
+| 🤖 **Prayer's Computer** | Java, JavaFX, Groq API | Interactive desktop story with an AI-assisted gender-bias analyzer |
+| 🎧 **Hatsune Miku Website** | HTML, CSS | Multi-page themed site with custom styling, navigation, and a 404 page |
+| 🌐 **Cyberfeminist Index** | Wix | Website exploring women, technology, and digital culture |
+| 🌸 **Daisy Chain Network** | Java, Vaadin | Women-in-STEM learning and opportunity platform *(in progress)* |
+| 🧩 **Rental Car Management** | C, Git, Make | Linked-list program with dynamic memory management |
 
 <div align="center">
-<img src="https://media.giphy.com/media/mglBWa817Dqhw0Pr8n/giphy.gif" width="290" alt="Lain anime animation"/>
-<img src="https://media.giphy.com/media/4pq8NXHVpQk2NlrnMz/giphy.gif" width="290" alt="Second Lain anime animation"/>
+
+<img src="https://media1.tenor.com/m/8GQHvYmkiIgAAAAd/lain-serial-experiments-lain.gif" width="470" alt="Blue NAVI boot animation from Serial Experiments Lain" />
+
+*`connecting ideas // connecting people // connecting worlds`*
+
 </div>
 
-### `03 / system_specs`
+## 🛠️ `03 / tech_stack.sys`
 
-**Programming:** Java · C · Python (foundational) · HTML · CSS  
-**Libraries & tools:** JavaFX · Vaadin · Git · GitHub · GitLab · Linux · Make · Valgrind  
-**Web & design:** Wix · WordPress · Canva · UX/UI  
-**Concepts:** REST APIs · JSON · Data Structures · Debugging · User-centred Design
+**👩‍💻 Languages:** `Java` `C` `Python (foundational)` `HTML` `CSS`  
+**🧪 Frameworks:** `JavaFX` `Vaadin`  
+**🔧 Dev tools:** `Git` `GitHub` `GitLab` `Linux` `Make` `Valgrind`  
+**🎨 Web + design:** `Wix` `WordPress` `Canva` `UX/UI`  
+**🔌 Concepts:** `REST APIs` `JSON` `Data Structures` `Debugging` `User-Centred Design`
 
-### `04 / transmission_log`
+## 📡 `04 / transmission.log`
 
-```txt
-[ OK ] creative coding
-[ OK ] accessible web experiences
-[ OK ] ethical AI and gender-bias research
-[ .. ] next transmission pending...
+```text
+[✓] learning by building
+[✓] making interfaces more human
+[✓] exploring bias and inclusive AI
+[✓] creating strange little corners of the web
+[~] next transmission incoming...
 ```
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/VLzbEtlbwJUFljcRbf/giphy.gif" width="420" alt="Lain glitch loop"/>
+<img src="https://media1.tenor.com/m/Min2xYYTz5cAAAAd/lain-serial-experiments-lain.gif" width="360" alt="Blue Lain cyberpunk line animation" />
 
-**`// let's all love lain //`**  
+### `💠 THE WIRED IS EVERYWHERE 💠`
 
-<sub>Visuals: fan GIFs hosted on GIPHY. Serial Experiments Lain belongs to its respective creators.</sub>
+<sub>✦ Lain GIFs sourced from community posts on Tenor; anime belongs to its respective creators. ✦</sub>
 
 </div>
 
