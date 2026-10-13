@@ -1,89 +1,52 @@
 <div align="center">
 
-<img src="https://media1.tenor.com/m/1QQfx64Esr0AAAAd/serial-experiments-lain-lain.gif" width="640" alt="Lain blue animated wallpaper" />
+# Chenuki Rodrigo
 
-# 🌐 C Y P H E R F E M . E X E
+**Software Engineering Co-op Student · University of Guelph**  
+Building interactive software, thoughtful web experiences, and AI-assisted tools.
 
-### `✦ welcome to the wired ✦`
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-VIEW-145b73?style=for-the-badge&labelColor=122337)](https://drive.google.com/drive/folders/1g_YwLpNPLRVWQzI8q7qoo3Av18L9lvOb?usp=drive_link)
+[![Email](https://img.shields.io/badge/EMAIL-CONTACT-18816c?style=for-the-badge&labelColor=122337)](mailto:crodrigo@uoguelph.ca)
+[![GitHub](https://img.shields.io/badge/GITHUB-CYPHERFEM-236d98?style=for-the-badge&labelColor=122337)](https://github.com/cypherfem)
 
-**👾 hi, i'm Chenuki!**
+<img src="https://media.giphy.com/media/VLzbEtlbwJUFljcRbf/giphy.gif" width="310" alt="Lain-inspired analog glitch animation" />
 
-*Software Engineering Co-op @ University of Guelph · UX Design*
-
-![Java](https://img.shields.io/badge/Java-061925?style=for-the-badge&logo=openjdk&logoColor=3fffe0)
-![C](https://img.shields.io/badge/C-061925?style=for-the-badge&logo=c&logoColor=3fffe0)
-![HTML & CSS](https://img.shields.io/badge/HTML%20%26%20CSS-061925?style=for-the-badge&logo=html5&logoColor=3fffe0)
-![Wix](https://img.shields.io/badge/Wix-061925?style=for-the-badge&logo=wix&logoColor=3fffe0)
-
-**[💾 GitHub](https://github.com/cypherfem)** ・ **[📨 Email](mailto:crodrigo@uoguelph.ca)**
-
-`STATUS: ONLINE 🟢` · `LOCATION: ONTARIO, CANADA` · `CONNECTION: THE WIRED`
+<sub>connected to the wired // creative coding · UX · AI</sub>
 
 </div>
+
+## About
+
+I'm a Software Engineering co-op student focused on **User Experience Design**. My work combines practical programming with visual storytelling, accessible interfaces, and an interest in women's representation in technology.
+
+## Capabilities
+
+**Core languages and application development**
+
+![Java](https://img.shields.io/badge/Java-0f799b?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/C-247aad?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/Python_foundational-2f826e?style=for-the-badge&logo=python&logoColor=white) ![JavaFX](https://img.shields.io/badge/JavaFX-207c85?style=for-the-badge) ![Vaadin](https://img.shields.io/badge/Vaadin-176d96?style=for-the-badge)
+
+**Web, design, and development tools**
+
+![HTML](https://img.shields.io/badge/HTML-2e8e9b?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-2275b9?style=for-the-badge&logo=css&logoColor=white) ![Wix](https://img.shields.io/badge/Wix-166b92?style=for-the-badge&logo=wix&logoColor=white) ![Git](https://img.shields.io/badge/Git-287e85?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-156f93?style=for-the-badge&logo=linux&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-268170?style=for-the-badge)
+
+## Projects
+
+| Project | Technologies | Highlights |
+|---|---|---|
+| **Prayer's Computer** | Java, JavaFX, Groq API | Interactive application with AI-assisted gender-bias analysis and multimedia UI |
+| **Hatsune Miku Website** | HTML, CSS | Multi-page site with custom navigation, layout, and 404 page |
+| **Cyberfeminist Index** | Wix | Digital-culture and technology website |
+| **Daisy Chain Network** *(in progress)* | Java, Vaadin | Women-in-STEM resource platform |
+| **Rental Car Management** | C, Git, Make | Linked-list implementation and dynamic memory management |
+
+## Project dashboard
+
+<table><tr><td width="50%"><img src="./assets/project-map.svg" alt="Featured project dashboard" width="100%" /></td><td width="50%"><img src="./assets/skills-map.svg" alt="Technical skills dashboard" width="100%" /></td></tr></table>
+
+## Education
+
+**University of Guelph** · Bachelor of Computing, Software Engineering (Co-op)  
+Area of Emphasis: User Experience Design · Dean's Honours List (Fall 2025 and Winter 2026)
 
 ---
-
-## 🪼 `01 / about_me.exe`
-
-<table><tr><td width="66%" valign="top">
-
-```text
-> whoami
-NAME     : Chenuki Rodrigo
-DEGREE   : B.Comp., Software Engineering (Co-op)
-FOCUS    : User Experience Design
-LOVES    : creative coding, weird web, women in tech
-CURRENT  : building beautiful & useful software
-```
-
-I make **interactive apps, creative websites, and AI-assisted tools**. I'm especially interested in **cyberfeminism**, digital storytelling, and human-centred technology. 🦋
-
-</td><td width="34%" align="center">
-<img src="https://media1.tenor.com/m/AL_kKT7aS9IAAAAd/serial-experiments-lain-yasuo-iwakura.gif" width="260" alt="Lain blue computer screen animation" />
-</td></tr></table>
-
-## 💻 `02 / projects.directory`
-
-| 🗂️ Project | ⚙️ Tech | ✨ Description |
-|---|---|---|
-| 🤖 **Prayer's Computer** | Java, JavaFX, Groq API | Interactive desktop story with an AI-assisted gender-bias analyzer |
-| 🎧 **Hatsune Miku Website** | HTML, CSS | Multi-page themed site with custom styling, navigation, and a 404 page |
-| 🌐 **Cyberfeminist Index** | Wix | Website exploring women, technology, and digital culture |
-| 🌸 **Daisy Chain Network** | Java, Vaadin | Women-in-STEM learning and opportunity platform *(in progress)* |
-| 🧩 **Rental Car Management** | C, Git, Make | Linked-list program with dynamic memory management |
-
-<div align="center">
-
-<img src="https://media1.tenor.com/m/8GQHvYmkiIgAAAAd/lain-serial-experiments-lain.gif" width="470" alt="Blue NAVI boot animation from Serial Experiments Lain" />
-
-*`connecting ideas // connecting people // connecting worlds`*
-
-</div>
-
-## 🛠️ `03 / tech_stack.sys`
-
-**👩‍💻 Languages:** `Java` `C` `Python (foundational)` `HTML` `CSS`  
-**🧪 Frameworks:** `JavaFX` `Vaadin`  
-**🔧 Dev tools:** `Git` `GitHub` `GitLab` `Linux` `Make` `Valgrind`  
-**🎨 Web + design:** `Wix` `WordPress` `Canva` `UX/UI`  
-**🔌 Concepts:** `REST APIs` `JSON` `Data Structures` `Debugging` `User-Centred Design`
-
-## 📡 `04 / transmission.log`
-
-```text
-[✓] learning by building
-[✓] making interfaces more human
-[✓] exploring bias and inclusive AI
-[✓] creating strange little corners of the web
-[~] next transmission incoming...
-```
-
-<div align="center">
-
-<img src="https://media1.tenor.com/m/Min2xYYTz5cAAAAd/lain-serial-experiments-lain.gif" width="360" alt="Blue Lain cyberpunk line animation" />
-
-### `💠 THE WIRED IS EVERYWHERE 💠`
-
-<sub>✦ Lain GIFs sourced from community posts on Tenor; anime belongs to its respective creators. ✦</sub>
-
-</div>
+<div align="center"><sub>present day · present time // connection established</sub></div>
